@@ -1,7 +1,7 @@
 # Sprint 3 - BIT
 
 * Project which I've done as a Sprint 3 task while studying at BIT. 
-* Project was made using only Bootstrap framework v5.1.3.
+* Project was made using only [Bootstrap framework v5.1.3.](https://getbootstrap.com/)
 * All commits were made using GitBash.
 
 
@@ -21,18 +21,19 @@
 
 * Project is made using localy stored Bootstrap library. 
 * To open this project you must first instal Bootstrap library following these steps:
-* 
-* 1. Download Bootstrap library ZIP file. Link: https://getbootstrap.com/docs/5.1/getting-started/download/
-* 2. Uzip downloaded file. 
-* 3. Store the library folder named "bootstrap-5.1.3-dist" in the "index.html" file directory.
-* 4. Open "index.html" file using your prefered internet browser. 
-* 5. Profit!
+
+1. Download Bootstrap library ZIP file. [Download link](https://getbootstrap.com/docs/5.1/getting-started/download/)
+2. Uzip downloaded file. 
+3. Store the library folder named "bootstrap-5.1.3-dist" in the "index.html" file directory.
+4. Open "index.html" file using your prefered internet browser. 
+5. Profit!
 
 
 ## Authors
 
 Project made only by me - Žygimantas Kairaitis. 
-* https://www.linkedin.com/in/%C5%BEygimantas-kairaitis-018a86193/
+
+[LinkedIn](https://www.linkedin.com/in/%C5%BEygimantas-kairaitis-018a86193/)
 
 ## License
 
