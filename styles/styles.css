@@ -1,3 +1,7 @@
 .card {
   min-width: 220px;
 }
+
+.carousel img {
+  max-height: 20rem;
+}
