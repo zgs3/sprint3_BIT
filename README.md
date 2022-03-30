@@ -15,6 +15,7 @@
 ## Techniques used
 
 * Only Bootstrap v5.1.3 framework.
+* And only one line of CSS for better responsive design.
 
 
 ## Getting Started
